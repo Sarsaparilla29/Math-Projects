@@ -4,6 +4,7 @@ The purpose of this repository is to maintain and build a collection of various 
 that involve the use of numbers.
 COMPLETED:
 1. Approximate Pi using the Gregory-Leibniz series up to 10,000 terms.
+2. Added Binary to Decimal and Decimal to Binary files.
 
 TODO:
 1. Find PI to the Nth Digit - Enter a number and have the program generate PI up to that many 
