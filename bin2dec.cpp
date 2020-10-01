@@ -6,6 +6,7 @@ int main(){
 	//Variables	
 	int numDec = 0;
 	int numBin[0];
+    int sentinal = 0;
 	std::string numStr;
 	
 	//Header	
@@ -13,6 +14,7 @@ int main(){
 	std::cout << "-----------------------" << std::endl;	
 	
 	//User prompt	
+    while (sentinal != 99){
 	std::cout << "Please enter a number in binary: ";
 	std::cin >> numStr; 
 	
@@ -28,5 +30,9 @@ int main(){
 	}		
 	//Decimal output	
 	std::cout << "Your number in decimal is: " << numDec << std::endl;
+    std::cout << "Enter 99 to end the program or any other to restart: ";
+    std::cin >> sentinal;
+    std::cout << "\n";
+    }
 	return 0;
 }

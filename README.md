@@ -67,3 +67,4 @@ the user decides. The code should record the outcomes and count the number of ta
 limit statement Optional: Make the calculator capable of supporting infinite limits.
 22. Fast Exponentiation - Ask the user to enter 2 integers a and b and output a^b (i.e. pow(a,b)) 
 in O(lg n) time complexity.
+23. Hexadecimal Converter.

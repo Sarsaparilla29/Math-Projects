@@ -3,8 +3,8 @@
 
 int main(){
 	const int BASE = 2;	
-	int numDec;
-	int numBin;
+	int numDec = 0;
+	int numBin = 0;
 	std::string numStr;
 	std::cout<< "Welcome to Decimal Dudes" << std::endl;
 	std::cout<< "------------------------" << std::endl;
