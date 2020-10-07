@@ -4,10 +4,9 @@
 
 int main(){
 	//Variables	
-	int numDec = 0;
+    int sentinal = 0; 
 	int numBin[0];
-    int sentinal = 0;
-	std::string numStr;
+    std::string numStr;
 	
 	//Header	
 	std::cout << "Welcome to Binary Dudes" << std::endl;
@@ -20,6 +19,7 @@ int main(){
 	
 	//Determine array length
 	int base = 1;
+    int numDec = 0;
 	int length = numStr.size();
 	
 	//binary to decimal calculations

@@ -5,7 +5,8 @@ that involve the use of numbers.
 COMPLETED:
 1. Approximate Pi using the Gregory-Leibniz series up to 10,000 terms.
 2. Added Binary to Decimal and Decimal to Binary files.
-
+3. Added base Converter which allows a user to input a decimal number and the base to convert it too
+   then, the program outputs that number converted to the base the user wanted.
 TODO:
 1. Find PI to the Nth Digit - Enter a number and have the program generate PI up to that many 
 decimal places. Keep a limit to how far the program will go.
