@@ -3,6 +3,7 @@ Number-Problems
 The purpose of this repository is to maintain and build a collection of various problems
 that involve the use of numbers.
 COMPLETED:
+-Hamming Code Converter.
 1. Approximate Pi using the Gregory-Leibniz series up to 10,000 terms.
 2. Added Binary to Decimal and Decimal to Binary files.
 3. Added base Converter which allows a user to input a decimal number and the base to convert it too
